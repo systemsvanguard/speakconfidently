@@ -4,7 +4,7 @@ A Vue.js based blog on public speaking and presentation at StandAndSpeakConfiden
 This Live **Site Demo** based on Vue.js ~ [Stand and Speak Confidently](http://speakconfidently.ryanhunter.ca/) 
 React.js based Live **Site Demo** ~ [Stand and Speak Confidently](https://standandspeakconfidently.com/) 
 
-![Screenshot of Top of Front Page](https://standandspeakconfidently.com/screens/screen_standandspeak_a1.webp) 
+![Screenshot of Top of Front Page](https://standandspeakconfidently.com/screens/screen_4.png) 
 
 
 ## Steps to Install 
@@ -36,16 +36,12 @@ This project is licensed under the terms of the **MIT** license.
 
 ## Screenshots 
 
-![Screenshot of Top of Front Page](https://standandspeakconfidently.com/screens/screen_standandspeak_a1.webp)
+![Screenshot of Top of Front Page](https://standandspeakconfidently.com/screens/screen_1.webp)
 
-![Screenshot of Middle of Front Page](https://standandspeakconfidently.com/screens/screen_standandspeak_a2.webp)
+![Another Screenshot](https://standandspeakconfidently.com/screens/screen_2.png)
 
-![Screenshot of Blog Article](https://standandspeakconfidently.com/screens/screen_standandspeak_a3.webp)
+![Screenshot # 3](https://standandspeakconfidently.com/screens/screen_3.png)
 
-![Screenshot of About Me Page](https://standandspeakconfidently.com/screens/screen_standandspeak_about.webp)
-
-![Screenshot of Top of Contact Me](https://standandspeakconfidently.com/screens/screen_standandspeak_contact.webp)
-
-![Screenshot of Categories Page](https://standandspeakconfidently.com/screens/screen_standandspeak_tags.webp)
+![Screenshot # 4](https://standandspeakconfidently.com/screens/screen_4.png)
 
 
