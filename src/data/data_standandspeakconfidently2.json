@@ -1,0 +1,191 @@
+[
+	{
+		"id": 1,
+		"title": "Humorous Public Speaking Quotes",
+		"synopsis": "Funny quoatations abut public speaking and presentations.",
+		"picture": "funny_quotes.webp",
+		"page": "funnyquotes",
+		"tags": [
+			"Tips"
+		],
+		"published": "2025-05-12 11:00"
+	},
+	{
+		"id": 2,
+		"title": "Improve Your Public Speaking",
+		"synopsis": "12 Practical tips you can implement quickly to get better at Public Speaking.",
+		"picture": "12_tips_to_improve_speaking.webp",
+		"page": "improveps",
+		"tags": [
+			"Tips",
+			"Speaking"
+		],
+		"published": "2025-05-10 14:00"
+	},
+	{
+		"id": 3,
+		"title": "Don't Fear Public Speaking",
+		"synopsis": "How to overcome the fear of public speaking.",
+		"picture": "better_speaker.webp",
+		"page": "dontfear",
+		"tags": [
+			"Tips",
+			"Speaking"
+		],
+		"published": "2025-05-10 10:00"
+	},
+	{
+		"id": 4,
+		"title": "Public Speaking, Known Knowns, and Unknown Unknowns",
+		"synopsis": "A solid technique for addressing uncertainties and contingencies.",
+		"picture": "unknown_unknown.webp",
+		"page": "knownunknown",
+		"tags": [
+			"Tips"
+		],
+		"published": "2025-05-09 15:00"
+	},
+	{
+		"id": 5,
+		"title": "Jack of All Trades ... An Incomplete Quote",
+		"synopsis": "A fresh perspective on a popular but limiting quote ... that was misinterpreted.",
+		"picture": "jack_of_all_trades_001.webp",
+		"page": "jackofall",
+		"tags": [
+			"Tips"
+		],
+		"published": "2025-05-09 10:00"
+	},
+	{
+		"id": 6,
+		"title": "Beat Public Speaking Jitters",
+		"synopsis": "Techniques to overcome public speaking limitations.",
+		"picture": "glossophobia_001.webp",
+		"page": "jitters",
+		"tags": [
+			"Tips",
+			"Speaking",
+			"Delivery"
+		],
+		"published": "2025-05-08 11:00"
+	},
+	{
+		"id": 7,
+		"title": "Famous Quotes About Public Speaking",
+		"synopsis": "Popular and helpful quotes to ponder.",
+		"picture": "favourite_quotes_001.webp",
+		"page": "quotes1",
+		"tags": [
+			"Writing"
+		],
+		"published": "2025-05-07 17:00"
+	},
+	{
+		"id": 8,
+		"title": "6 Tips To Improve Your Public Speaking Skills",
+		"synopsis": "Techniques to overcome public speaking limitations.",
+		"picture": "6_tips_to_improve_speaking.webp",
+		"page": "glossophobia",
+		"tags": [
+			"Tips",
+			"Speaking",
+			"Delivery"
+		],
+		"published": "2025-05-07 13:00"
+	},
+	{
+		"id": 9,
+		"title": "Public Speaking and 4 Levels of Competency",
+		"synopsis": "A thoughtful perspective on progressive skills growth in anything.",
+		"picture": "competence_levels.webp",
+		"page": "competency",
+		"tags": [
+			"Tips",
+			"Delivery"
+		],
+		"published": "2025-05-07 10:00"
+	},
+	{
+		"id": 10,
+		"title": "How to Write a Speech Quickly?",
+		"synopsis": "A helpful and quick technique to identify potential speech topics.",
+		"picture": "how_to_create_a_speech_quickly.webp",
+		"page": "quickspeech",
+		"tags": [
+			"Tips",
+			"Writing",
+			"Delivery"
+		],
+		"published": "2025-05-06 10:00"
+	},
+	{
+		"id": 11,
+		"title": "Get Better at Public Speaking",
+		"synopsis": "A helpful and quick technique to identify potential speech topics.",
+		"picture": "speak_confidently.webp",
+		"page": "getbetter",
+		"tags": [
+			"Tips",
+			"Writing",
+			"Delivery"
+		],
+		"published": "2025-05-05 17:30"
+	},
+
+	{
+		"id": 12,
+		"title": "Tips To Stop Procrastination",
+		"synopsis": "How to stop delaying important things.  A few helpful tips!",
+		"picture": "much_to_do.webp",
+		"page": "procrastinate",
+		"tags": [
+			"Tips",
+			"Writing",
+			"Delivery"
+		],
+		"published": "2025-05-05 10:30"
+	},
+
+
+		{
+		"id": 13,
+		"title": "Hansei & Kaizen in Public Speaking",
+		"synopsis": "A perspective on introspection and perpetual self improvement.",
+		"picture": "kaizen.webp",
+		"page": "kaizen",
+		"tags": [
+			"Tips",
+			"Writing",
+			"Delivery"
+		],
+		"published": "2025-05-03 10:30"
+	},
+
+
+
+	{
+		"id": 14,
+		"title": "Exorcizing Glossophobia: Some Tips to Help",
+		"synopsis": "Practical Tips to Overcome a Fear of Public Speaking",
+		"picture": "exorcisefear.webp",
+		"page": "exorcisefear",
+		"tags": [
+			"Tips",
+			"Writing",
+			"Delivery"
+		],
+		"published": "2025-05-02 16:15"
+	} , 
+	
+	{
+		"id": 15,
+		"title": "Happy St Patrick's Day",
+		"synopsis": "The origin story of St Patrick's Day.",
+		"picture": "st_patricks_day_001.webp",
+		"page": "stpatrick",
+		"tags": [
+			"Writing"
+		],
+		"published": "2025-03-17 15:30"
+	} 
+] 

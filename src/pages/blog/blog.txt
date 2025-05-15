@@ -1,0 +1,16 @@
+blog.txt
+competency.vue
+dontfear.vue
+exorcisefear.vue
+funnyquotes.vue
+getbetter.vue
+glossophobia.vue
+improveps.vue
+jackofall.vue
+jitters.vue
+kaizen.vue
+knownunknown.vue
+procrastinate.vue
+quickspeech.vue
+quotes1.vue
+stpatrick.vue

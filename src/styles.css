@@ -1,0 +1,36 @@
+/* Portfolio site for fullstack developer Ryan Hunter | ryan@RyanHunter.org | GitHub handle : SystemsVanguard  */
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: floralwhite;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #43026e;
+  font-family: "Lato", -apple-system, "Sour Gummy", Roboto, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  color: #333;
+  font-family: "Lato", -apple-system, Roboto, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 18px;
+}
+
+/* remove link underlines  */
+.link_no_underline:link {
+  text-decoration: none;
+}
+.link_no_underline:visited {
+  text-decoration: none;
+}
+.link_no_underline:hover {
+  text-decoration: none;
+}
+
+/* Image styling */
+img {
+  border-radius: 8px;
+}
+/* -------------------------------------------- */
+
